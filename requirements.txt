@@ -1,0 +1,10 @@
+asgiref==3.7.2
+certifi==2023.7.22
+charset-normalizer==3.3.0
+Django==4.2.6
+idna==3.4
+paystack==1.5.0
+requests==2.31.0
+simplejson==3.19.2
+sqlparse==0.4.4
+urllib3==2.0.6
